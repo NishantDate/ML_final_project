@@ -1,13 +1,15 @@
 # Fake News Detection
+-----------------------------------------
 - Intro to Machine Learning Final Project
 - Nishant Date and Nick Tran
 
 ## Methodology
+-----------------------------------------
 - Logistic Regression (L1 and L2 Regulariation)
 - Support-Vector-Machines
 
 ## Dataset
-
+-----------------------------------------
 LIAR: A BENCHMARK DATASET FOR FAKE NEWS DETECTION
 
 William Yang Wang, "Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection, to appear in Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2017), short paper, Vancouver, BC, Canada, July 30-August 4, ACL.
