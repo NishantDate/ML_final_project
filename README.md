@@ -3,6 +3,10 @@
 - Intro to Machine Learning Final Project
 - Nishant Date and Nick Tran
 
+## Final Presentation
+-----------------------------------------
+- https://docs.google.com/presentation/d/14kvL_ppbMTA9wY1D_1r7xEGRY2qnv6JDRJRrt0aH0H8/edit#slide=id.gd132cec8cb_0_38
+
 ## Methodology
 -----------------------------------------
 - Logistic Regression (L1 and L2 Regulariation)
